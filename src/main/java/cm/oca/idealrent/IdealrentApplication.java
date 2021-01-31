@@ -1,0 +1,13 @@
+package cm.oca.idealrent;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class IdealrentApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(IdealrentApplication.class, args);
+    }
+
+}
